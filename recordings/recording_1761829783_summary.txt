@@ -1,0 +1,1 @@
+The camera is recording a dark, unlit scene. No motion or changes in light are detected in the frames. The environment remains static throughout the clip.
